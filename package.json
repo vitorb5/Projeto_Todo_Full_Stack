@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/vitorb5/Projeto_Todo_Full_Stack#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
